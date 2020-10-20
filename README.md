@@ -1,10 +1,6 @@
-## 공모전 참여 결과 : 전주시 공공데이터 활용 공모전 최우수상 수상작
+## 전주시 공공데이터 활용 공모전 최우수상 수상작
 **<a href="http://www.sjbnews.com/news/articleView.html?idxno=656300">기사 참고</a>**
-## An android app that provides Jeonju cultural information by parsing Jeonju public data api for Jeonju citizens and tourists [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/SophieYoonseo/Jeonju_culturallife/blob/master/LICENSE.md)
 
-### :sparkles: Leave Issue if you want to contribute to this project. We welcome your participation at any time.
-
-## You can now download it from the Google Play Store. Download it quickly using the link below.
 ### 전주문화  - https://play.google.com/store/apps/details?id=csejeonju2019.go.kr.insta
 
 <a href = 'https://play.google.com/store/apps/details?id=csejeonju2019.go.kr.insta'>
