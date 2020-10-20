@@ -11,39 +11,7 @@
 
 
  ![store](./Etc/store.JPG)
-## Our team member
-<table id='team'>
- <tr>
-  <td id='김윤서'>
-   <a href = 'https://github.com/SophieYoonseo'>
-    <img src='https://github.com/SophieYoonseo.png?size=420'>
-   </a>
-   <h4 align='center'><a href = 'https://github.com/SophieYoonseo'>Yoonseo Kim</a>
-   </h4>
-  </td>
-  <td id='김준성'>
-   <a href = 'https://github.com/saechimdaeki'>
-    <img src='https://github.com/saechimdaeki.png?size=420'>
-   </a>
-   <h4 align='center'><a href = 'https://github.com/saechimdaeki'>김준성</a>
-   </h4>
-  </td>
-  <td id='장진성'>
-   <a href = 'https://github.com/ijin1322'>
-    <img src='https://github.com/ijin1322.png?size=420'>
-   </a>
-   <h4 align='center'><a href = 'https://github.com/ijin1322'>장진성</a>
-   </h4>
-  </td>
-  <td id='정종범'>
-   <a href = 'https://github.com/jjongbumeee'>
-    <img src='https://github.com/jjongbumeee.png?size=10'>
-   </a>
-   <h4 align='center'><a href = 'https://github.com/jjongbumeee'>정종범</a>
-   </h4>
-  </td>
- </tr>
-</table>
+
 
 ## 💻 Developer
 *   [SophieYoonseo](https://github.com/SophieYoonseo) - xml data 파싱, 세부디자인, TTS, 아이디어구상, 앱 유지보수
